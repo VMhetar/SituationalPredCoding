@@ -1,3 +1,7 @@
+"""
+Docstring for HebbianLearning
+This module is used to implement Hebbian Learning in the PyTorch framework
+"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
